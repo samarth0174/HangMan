@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tech">
+        <item>PRESIDENT</item>
+        <item>EXCLAMATION</item>
+        <item>STATEMENT</item>
+        <item>TELEVISION</item>
+        <item>PHYSICS</item>
+        <item>ALGEBRA</item>
+        <item>DIFFICULT</item>
+        <item>EXTREME</item>
+        <item>PROCEDURE</item>
+        <item>SOLDIER</item>
+        <item>LUNCH</item>
+        <item>BIAS</item>
+        <item> MAGAZINE</item>
+        <item>COMPUTER</item>
+        <item>INTERNET</item>
+        <item>ALLEGEDLY</item>
+        <item>UNISON</item>
+        <item>EXCITED</item>
+        <item>AMALGAMATION</item>
+        <item>REHABILITATION</item>
+        <item>STRUCTURE</item>
+        <item>SUBSCRIBE</item>
+        <item>ADDRESS</item>
+        <item>MISCHIEVOUS</item>
+        <item>BEWILDERED</item>
+        <item>ACCUSATION</item>
+        <item>DISGUSTING</item>
+        <item>PROLONGED</item>
+        <item>RESTORATION</item>
+        <item>REGENERATION</item>
+        <item>DEVIL</item>
+
+
+
+
+    </string-array>
+
+
+    <string-array name="hinttech">
+
+        <item> LEADER. </item>
+        <item> SHOUT OUT. </item>
+        <item>  TO SAY. </item>
+        <item> YOU WATCH IT. </item>
+        <item>  FORM OF SCIENCE.</item>
+        <item>  FORM OF MATH.</item>
+        <item>  HARD.</item>
+        <item> INTENSE.</item>
+        <item>  STEPS.</item>
+        <item>  ARMY.</item>
+        <item> MEAL</item>
+        <item>ONE SIDED.</item>
+        <item>FORM OF BOOK.</item>
+        <item>MICROSOFT.</item>
+        <item>WORLD WIDE WEB.</item>
+        <item>SUPPOSEDLY.</item>
+        <item>AS ONE.</item>
+        <item>EAGER</item>
+        <item>MIXTURE.</item>
+        <item>REFORM.</item>
+        <item>ANATOMY.</item>
+        <item>JOIN.</item>
+        <item>PLACE.</item>
+        <item>SNEAKY.</item>
+        <item>PUZZLED, CONFUSED.</item>
+        <item>ALLEGATION</item>
+        <item>NASTY, GROSS.</item>
+        <item>EXTEND.</item>
+        <item>REBUILD.</item>
+        <item>TO BE REBORN.</item>
+        <item>ANAGRAM OF LIVED</item>
+
+
+
+
+
+
+
+    </string-array>
+
+
+
+
+
+
+</resources>

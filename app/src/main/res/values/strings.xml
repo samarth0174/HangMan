@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="gallows">The Gallows</string>
+    <string name="head">The Head</string>
+    <string name="body">The Body</string>
+    <string name="arm">An Arm</string>
+    <string name="leg">A Leg</string>
+    <string name="hint">HINT</string>
+    <string name="hangman">HangMan</string>
+    <string name="howtoplay">How To Play?</string>
+    <string name="howto">How To  Play</string>
+    <string name="Paragraph"> "# Here a man is being executed.\n"
+        "\n"
+        "# You will be given a Random Word related along with a Hint.\n"
+        "\n"
+        "# You have to guess the  letters of the word.\n"
+        "\n"
+        "# If that letter is in the word then You are good.\n"
+        "\n"
+        "# If the letter isn't in the word then  a body part will be added to the gallows.\n"
+        "\n"
+        "# You can continue guessing letters until you can either solve the word  or\t"
+        "all six body parts are on the gallows ie. You only have six wrong selections.\n"
+
+    </string>
+    <string name="Startgame">START GAME</string>
+    <string name="categories">Categories</string>
+    <string name="cat">Categories</string>
+</resources>
